@@ -7,3 +7,4 @@ Activity on 2023-01-26T00:00:00 - Refactor "data processing" module
 Activity on 2023-01-30T00:00:00 - test: Add unit tests
 Activity on 2023-02-01T00:00:00 - Revert "perf: Optimize performance"
 Activity on 2023-02-02T00:00:00 - Merge pull request #59 from quantum-ml-library/main
+Activity on 2023-02-14T00:00:00 - Merge pull request #27 from fast-vector-db/main
