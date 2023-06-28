@@ -98,4 +98,4 @@ if __name__ == '__main__':
 
     print("\nFinal evaluation of global model on client 1:", clients[0].evaluate())
 
-# Commit timestamp: 2023-08-23 00:00:00 - 334
+# Commit timestamp: 2023-06-28 00:00:00 - 589
