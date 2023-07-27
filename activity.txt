@@ -28,3 +28,4 @@ Activity on 2023-07-03T00:00:00 - Update "model training" documentation
 Activity on 2023-07-03T00:00:00 - fix: Resolve bug
 Activity on 2023-07-12T00:00:00 - Fix "logging system" issue
 Activity on 2023-07-12T00:00:00 - Add support for "model training"
+Activity on 2023-07-27T00:00:00 - Add support for "model training"
