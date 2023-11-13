@@ -97,3 +97,5 @@ if __name__ == '__main__':
     print("Global model updated.")
 
     print("\nFinal evaluation of global model on client 1:", clients[0].evaluate())
+
+# Commit timestamp: 2023-11-13 00:00:00 - 318
