@@ -261,3 +261,4 @@ Activity on 2024-07-01T00:00:00 - docs: Update documentation
 Activity on 2024-07-11T00:00:00 - test: Add unit tests
 Activity on 2024-07-22T00:00:00 - Merge pull request #65 from gpu-memory-profiler/main
 Activity on 2024-07-22T00:00:00 - fix: Resolve bug
+Activity on 2024-07-24T00:00:00 - style: Format code
