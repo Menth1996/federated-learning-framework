@@ -90,3 +90,4 @@ Activity on 2024-11-14T00:00:00 - Revert "Update dependencies"
 Activity on 2024-11-15T00:00:00 - Improve "configuration" logic
 Activity on 2024-11-20T00:00:00 - Update dependencies
 Activity on 2024-11-27T00:00:00 - Add support for "data processing"
+Activity on 2024-12-04T00:00:00 - Merge pull request #74 from distributed-rlhf-trainer/main
