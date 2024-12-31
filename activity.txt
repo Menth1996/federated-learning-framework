@@ -92,3 +92,4 @@ Activity on 2024-11-20T00:00:00 - Update dependencies
 Activity on 2024-11-27T00:00:00 - Add support for "data processing"
 Activity on 2024-12-04T00:00:00 - Merge pull request #74 from distributed-rlhf-trainer/main
 Activity on 2024-12-24T00:00:00 - Implement "data processing" functionality
+Activity on 2024-12-31T00:00:00 - feat: Add new feature
