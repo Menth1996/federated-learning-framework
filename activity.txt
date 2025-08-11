@@ -120,3 +120,4 @@ Activity on 2025-07-02T00:00:00 - refactor: Improve code structure
 Activity on 2025-07-29T00:00:00 - test: Add unit tests
 Activity on 2025-08-05T00:00:00 - Initial commit
 Activity on 2025-08-07T00:00:00 - Merge pull request #3 from data-privacy-toolkit/main
+Activity on 2025-08-11T00:00:00 - Fix "configuration" issue
